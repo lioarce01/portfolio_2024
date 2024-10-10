@@ -1,0 +1,39 @@
+Negro Profundo (Background Principal):
+
+HEX: #0a0a0a
+Uso: Color de fondo principal, ideal para pantallas completas y secciones importantes.
+Gris Oscuro (Tonos Secundarios):
+
+HEX: #030303
+Uso: Color secundario para elementos como tarjetas, fondos de secciones, o headers.
+Gris Medio (Textos Primarios):
+
+HEX: #333333
+Uso: Color para los textos principales o subtítulos, proporcionando contraste con el fondo negro.
+Gris Claro (Textos Secundarios):
+
+HEX: #eaeaea
+Uso: Textos secundarios o descripciones. Ideal para proporcionar buena legibilidad.
+Azul Grisáceo (Elementos Activos/Acentos):
+
+HEX: #0070f3
+Uso: Color para elementos activos o destacados, como botones, links o iconos.
+Blanco Suave (Textos en Destacados):
+
+HEX: #ffffff
+Uso: Color para textos o elementos clave que necesiten destacarse sobre el fondo oscuro.
+Gris Azul Oscuro (Fondo de Componentes o Cartas):
+
+HEX: #1a1a1a
+Uso: Fondo de componentes como cartas, cuadros de texto o menús, para darles algo de profundidad.
+Gris Plateado (Bordes o Divisores):
+
+HEX: #666666
+Uso: Para líneas divisorias, bordes o detalles sutiles que necesitan resaltar pero sin robar protagonismo.
+
+---
+
+Fondo Principal: #000000
+Textos Primarios: #eaeaea
+Botones y Elementos Interactivos: #0070f3
+Sombras o Bordes: #1a1a1a o #666666
