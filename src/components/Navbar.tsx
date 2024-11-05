@@ -1,11 +1,12 @@
 "use client";
 
+import React from "react";
 import Image from "next/image";
 import { FaHome, FaProjectDiagram, FaUser, FaEnvelope } from "react-icons/fa";
 
 const Navbar = () => {
   return (
-    <nav className="fixed bottom-0 left-1/2 transform -translate-x-1/2 w-[90%] md:w-[65%] bg-black/50 backdrop-blur-sm py-2 rounded-3xl mb-4 flex justify-between items-center">
+    <nav className="fixed bottom-0 z-10 left-1/2 transform -translate-x-1/2 w-[90%] md:w-[65%] bg-black/50 backdrop-blur-sm py-2 rounded-3xl mb-4 flex justify-between items-center">
       <Image
         src="/foxLogo.png"
         width={40}
@@ -21,7 +22,7 @@ const Navbar = () => {
       </a>
 
       <a
-        href="/Projects"
+        href="/projects"
         className="text-white hover:bg-[#303030] p-4 rounded-full transition duration-300"
       >
         <FaProjectDiagram className="text-xl" />
